@@ -2,8 +2,8 @@
 
 Notes & assignments of MIT 6.NULL.
 
-- [ ] Course overview + the shell 
-- [ ] Shell Tools and Scripting
+- [x] Course overview + the shell 
+- [x] Shell Tools and Scripting
 - [ ] Editors (Vim) 
 - [ ] Data Wrangling 
 - [ ] Command-line Environment 
